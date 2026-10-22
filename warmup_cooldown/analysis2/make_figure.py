@@ -7,7 +7,7 @@ from scipy import stats
 from statsmodels.stats.multitest import multipletests
 
 HERE = Path(__file__).resolve().parent
-CSV = (HERE.parent / "warmup_cooldown" / "experiments"
+CSV = (HERE.parent / "experiments"
        / "warmup_cooldown" / "run_table.csv")
 OUT = HERE
 
