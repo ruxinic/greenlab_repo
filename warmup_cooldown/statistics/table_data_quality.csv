@@ -1,0 +1,5 @@
+metric,value
+raw_rows,750
+completed_rows,750
+not_done_rows,0
+completed_rows_with_missing_or_invalid_values,0

@@ -1,0 +1,5 @@
+measure,test,statistic,p_value
+energy_j,Shapiro-Wilk residual normality,0.65001220517096,1.633623389917563e-36
+energy_j,Brown-Forsythe/Levene cell variance,9.43493533345362,2.4443702557404415e-34
+absolute_deviation_j,Shapiro-Wilk residual normality,0.5711532712559948,2.6881616151039897e-39
+absolute_deviation_j,Brown-Forsythe/Levene cell variance,5.957775814853823,1.1998863123226657e-19

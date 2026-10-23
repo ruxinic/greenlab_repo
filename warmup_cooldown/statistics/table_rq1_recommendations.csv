@@ -1,0 +1,7 @@
+benchmark,recommended_duration_s
+binary-trees,5
+n-body,5
+scimark-lu,30
+scimark-sor,30
+scimark-sparse,5
+spectral-norm,60

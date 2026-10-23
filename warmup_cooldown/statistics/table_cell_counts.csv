@@ -1,0 +1,7 @@
+benchmark,5,30,60,120,210
+n-body,25,25,25,25,25
+spectral-norm,25,25,25,25,25
+scimark-lu,25,25,25,25,25
+scimark-sor,25,25,25,25,25
+scimark-sparse,25,25,25,25,25
+binary-trees,25,25,25,25,25
